@@ -17,39 +17,39 @@
 
 let beats = {
     "103": {
-        beat: new Beat("./assets/Piano Chord 331.mp3"),
+        beat: new Beat("Piano Chord 331.mp3"),
         button: new Button('#00fffe', 65)
     },
     "104": {
-        beat: new Beat("./assets/Piano Chord 209.mp3"),
+        beat: new Beat("Piano Chord 209.mp3"),
         button: new Button('#00fffe', 83)
     },
     "105": {
-        beat: new Beat("./assets/Piano Chord 208.mp3"),
+        beat: new Beat("Piano Chord 208.mp3"),
         button: new Button('#00fffe', 68)
     },
     "100": {
-        beat: new Beat("./assets/Drum Sticks Hit 3.mp3"),
+        beat: new Beat("Drum Sticks Hit 3.mp3"),
         button: new Button('#FF00FF', 70)
     },
     "101": {
-        beat: new Beat("./assets/Drum Snare Roll.mp3"),
+        beat: new Beat("Drum Snare Roll.mp3"),
         button: new Button('#FF00FF', 71)
     },
     "102": {
-        beat: new Beat("./assets/PREL Musical 57.mp3"),
+        beat: new Beat("PREL Musical 57.mp3"),
         button: new Button('#FF00FF', 72)
     },
     "97": {
-        beat: new Beat("./assets/Cymbal Suspended 2.mp3"),
+        beat: new Beat("Cymbal Suspended 2.mp3"),
         button: new Button('#FF00FF', 74)
     },
     "98": {
-        beat: new Beat("./assets/Musical Compos 33.mp3"),
+        beat: new Beat("Musical Compos 33.mp3"),
         button: new Button('#FFFFFF', 75)
     },
     "99": {
-        beat: new Beat("./assets/Musical Orches 4.mp3"),
+        beat: new Beat("Musical Orches 4.mp3"),
         button: new Button('#FFFFFF', 76)
     }
 }
